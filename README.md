@@ -1,8 +1,6 @@
-
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG14dTRqZW5jbjhsbmtkdzNuNnN3cWFlcmtwdjR3NmhhamR0d3NwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FnGJfc18tDDHy/giphy.gif" width="600" alt="Animated code banner">
 </p>
-
 
 <h1 align="center">Hi there! I'm GreymanDev 👋</h1>
 <h3 align="center">DevOps Engineer | Python & Java Specialist | Cybersecurity Enthusiast</h3>
@@ -10,7 +8,7 @@
 ---
 
 <p align="center">
-  I'm a multi-disciplinary engineer with a passion for building and deploying robust, scalable software solutions. As a <b>DevOps Engineer</b>, I specialize in automating CI/CD pipelines and managing multi-cloud environments. My background as a <b>Python & Java Developer</b> allows me to bridge the gap between development and operations seamlessly, with a strong focus on automation and security.
+  As a senior technology leader with over 20 years of experience, I act as a strategic bridge between executive vision and technical execution. I specialize in translating complex business challenges into automated, scalable systems that drive efficiency and innovation. My passion lies in being a 'multiplier'—mentoring teams, amplifying their performance, and building a culture of sustainable digital growth.
 </p>
 
 ---
@@ -34,9 +32,10 @@
 
 ### 💡 Core Competencies
 
--   **DevOps & Cloud:** CI/CD pipeline design with GitHub Actions & Jenkins, containerization (Docker, Kubernetes), and multi-cloud management (Azure, GCP).
--   **Backend Development:** Building robust services and APIs with Python and Java.
--   **Cybersecurity:** Developing pentesting tools and vulnerability analysis as a hobby.
+-   **Business & Technology Translation:** Leading digital strategy by translating high-level goals into actionable tech roadmaps and mentoring cross-functional teams.
+-   **Process Automation & Optimization:** Reducing operational costs and scaling capabilities through intelligent automation (RPA, DevOps) and robust backend development (Python, Java).
+-   **Data-Driven Integration:** Enhancing interoperability and generating critical business insights via modern EDI solutions and advanced data analytics with KNIME.
+-   **Cloud-Native Infrastructure:** Designing and managing secure, multi-cloud environments (Azure, GCP) and CI/CD pipelines (GitHub Actions, Jenkins) for high-velocity delivery.
 
 ---
 
