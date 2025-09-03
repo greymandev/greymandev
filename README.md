@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG14dTRqZW5jbjhsbmtkdzNuNnN3cWFlcmtwdjR3NmhhamR0d3NwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FnGJfc18tDDHy/giphy.gif" width="600" alt="Animated code banner">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFkcDVvcTNlam4yNm10MGFyeHZkMnA2aGd6emdxcHIwNGlnNzJ4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lySzu7q4P49u8/giphy.gif" width="600" alt="Animated code banner">
 </p>
 
 <h1 align="center">Hi there! I'm GreymanDev 👋</h1>
-<h3 align="center">DevOps Engineer | Python & Java Specialist | Cybersecurity Enthusiast</h3>
+<h3 align="center">Senior Solutions Architect | AI & Automation in Retail & Pharma | SAP, EDI, DevOps, LLM</h3>
 
 ---
 
