@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there! I'm GreymanDev 👋</h1>
-<h3 align="center">Senior Solutions Architect | AI & Automation in Retail & Pharma | SAP, EDI, DevOps, LLM</h3>
+<h3 align="center">Sr. Digital Transformation Expert | EDI & SAP Architecture + Generative AI Integration | DevOps Leader | Bridging Legacy Systems with Future Tech</h3>
 
 ---
 
