@@ -26,6 +26,17 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://gemini.google.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="gemini" width="40" height="40"/> </a>
+  <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/> </a>
+  <a href="https://www.knime.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/KNIME-FDD800?style=flat&logo=knime&logoColor=black" alt="knime" height="40"/> </a>
+</p>
+
+---
+
+### 🔄 EDI Expertise
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EDI-X12%20%7C%20EDIFACT%20%7C%20XML%20%7C%20cXML%20%7C%20TRADACOMS-informational?style=for-the-badge" alt="EDI Expert"/>
 </p>
 
 ---
