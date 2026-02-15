@@ -52,10 +52,13 @@
 
 ### 📈 My GitHub Stats
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=greymandev&show_icons=true&locale=en&theme=dracula" alt="GreymanDev's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=greymandev&layout=compact&locale=en&theme=dracula" alt="GreymanDev's Top Languages" />
-</p>
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=greymandev&theme=dracula)](https://github.com/greymandev)
+
+[![GitHub Profile](https://img.shields.io/badge/View%20Full%20Profile-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/greymandev)
+
+</div>
 
 ---
 
