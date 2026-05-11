@@ -26,9 +26,10 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://gemini.google.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="gemini" width="40" height="40"/> </a>
+  <a href="https://gemini.google.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="gemini" width="60" height="40"/> </a>
   <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/> </a>
-  <a href="https://www.knime.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/KNIME-FDD800?style=flat&logo=knime&logoColor=black" alt="knime" height="40"/> </a>
+  <a href="https://opencode.ai/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opencode-wordmark-dark.svg" alt="opencode" width="90" height="40"/> </a>
+  <a href="https://claude.ai" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="claude" height="40"/> </a>
 </p>
 
 ---
